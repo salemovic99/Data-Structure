@@ -6,3 +6,11 @@ E:\Repos\DataStructure\DataStructure\bin\Debug\DataStructure.exe
 E:\Repos\DataStructure\DataStructure\bin\Debug\DataStructure.pdb
 E:\Repos\DataStructure\DataStructure\obj\Debug\DataStructure.exe
 E:\Repos\DataStructure\DataStructure\obj\Debug\DataStructure.pdb
+E:\Repos\DataStructure\Data-Structure\DataStructure\bin\Debug\DataStructure.exe.config
+E:\Repos\DataStructure\Data-Structure\DataStructure\bin\Debug\DataStructure.exe
+E:\Repos\DataStructure\Data-Structure\DataStructure\bin\Debug\DataStructure.pdb
+E:\Repos\DataStructure\Data-Structure\DataStructure\obj\Debug\DataStructure.csproj.AssemblyReference.cache
+E:\Repos\DataStructure\Data-Structure\DataStructure\obj\Debug\DataStructure.csproj.SuggestedBindingRedirects.cache
+E:\Repos\DataStructure\Data-Structure\DataStructure\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
+E:\Repos\DataStructure\Data-Structure\DataStructure\obj\Debug\DataStructure.exe
+E:\Repos\DataStructure\Data-Structure\DataStructure\obj\Debug\DataStructure.pdb

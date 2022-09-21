@@ -1,6 +1,6 @@
 # Data-Structure
 
-##Stack
-##Queue
-##Linked List
-##Tree
+## Stack
+## Queue
+## Linked List
+## Tree

@@ -46,7 +46,8 @@
     <Compile Include="LinkedList\LinkedList.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Queue\Queue.cs" />
+    <Compile Include="Queue\SamepleQueue.cs" />
+    <Compile Include="Algorithm\Algorithm.cs" />
     <Compile Include="Stack\Stack.cs" />
     <Compile Include="Tree\BInarySearchTree.cs" />
   </ItemGroup>
